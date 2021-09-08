@@ -5,7 +5,7 @@ const DYNAMIC_CACHE = "dynamic_cache";
 const INMUTABLE_CACHE = "inmutable_cache";
 
 const APP_SHELL = [
-  "/",
+  //"/",
   "js/app.js",
   "index.html",
   "css/style.css",
